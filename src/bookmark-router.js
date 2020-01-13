@@ -56,7 +56,7 @@ bookmarkRouter
     bookmarks.splice(bookmarkIndex, 1);
     logger.info(`Bookmark with ${id} has been deleted.`);
     res
-      .status(201)
+      .status(200)
       .send("Bookmark has been deleted.")
       .end();
   });
