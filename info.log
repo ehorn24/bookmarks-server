@@ -6,3 +6,14 @@
 {"message":"Title is required.","level":"error"}
 {"message":"Title is required.","level":"error"}
 {"message":"Title is required.","level":"error"}
+{"message":"Title is required.","level":"error"}
+{"message":{},"level":"error"}
+{"message":"Title is required.","level":"error"}
+{"message":"{}","level":"error"}
+{"message":"Title is required.","level":"error"}
+{"message":"{\"title\":\"Ella hi\",\"url\":\"www.yahoo.com\",\"rating\":4,\"description\":\"other search engine\"}","level":"error"}
+{"message":"{\"title\":\"Ella hi\",\"url\":\"www.yahoo.com\",\"rating\":4,\"description\":\"other search engine\"}","level":"error"}
+{"message":"Bookmark with id cd6cab61-bcfc-411f-a700-b050d6beb15d created.","level":"info"}
+{"message":"Bookmark with id bc4beebc-f2d9-412c-81cc-38b61ff80be9 created.","level":"info"}
+{"message":"Bookmark with bc4beebc-f2d9-412c-81cc-38b61ff80be9 has been deleted.","level":"info"}
+{"message":"Bookmark with id bc4beebc-f2d9-412c-81cc-38b61ff80be9 not found.","level":"error"}
